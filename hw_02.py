@@ -23,7 +23,7 @@ for i in range(4):
         print("Yaş: {}".format(user[2]))
     else:
         print("Doğum Tarihi: {}".format(user[3]))
-if user[3] < 18 :
+if user[2] < 18 :
     print("You cant go out because it's too dangerous/ Dışarısı çok tehlikeli yalnız dışarı çıkamazsın...")
 else:
     print("You can go out to the street/Yalnız dışarı çıkabilirsin...")
