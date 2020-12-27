@@ -1,0 +1,2 @@
+# deneme
+ TurkishAihub ödevleri
